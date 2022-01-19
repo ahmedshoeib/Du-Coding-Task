@@ -1,0 +1,6 @@
+framework module Pods_DuCodingTaskUITests {
+  umbrella header "Pods-DuCodingTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
